@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Most Common Character\Most Common Character\bin\Debug\Most Common Character.exe.config
+C:\Users\User\source\repos\Most Common Character\Most Common Character\bin\Debug\Most Common Character.exe
+C:\Users\User\source\repos\Most Common Character\Most Common Character\bin\Debug\Most Common Character.pdb
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most Common Character.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most_Common_Character.mostCommonCharacter.resources
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most_Common_Character.Properties.Resources.resources
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most Common Character.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most Common Character.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most Common Character.exe
+C:\Users\User\source\repos\Most Common Character\Most Common Character\obj\Debug\Most Common Character.pdb
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\bin\Debug\Most Common Character.exe.config
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\bin\Debug\Most Common Character.exe
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\bin\Debug\Most Common Character.pdb
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most Common Character.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most_Common_Character.mostCommonCharacter.resources
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most_Common_Character.Properties.Resources.resources
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most Common Character.csproj.GenerateResource.cache
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most Common Character.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most Common Character.exe
+C:\Users\User\Documents\Comp\most_common_char\Most Common Character\obj\Debug\Most Common Character.pdb
