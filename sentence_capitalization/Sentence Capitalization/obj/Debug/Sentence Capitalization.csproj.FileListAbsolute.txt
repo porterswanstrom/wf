@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.exe.config
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.exe
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.pdb
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence_Capitalization.sentenceCapitalization.resources
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence_Capitalization.Properties.Resources.resources
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.exe
+C:\Users\User\source\repos\Sentence Capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.pdb
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.exe.config
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.exe
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\bin\Debug\Sentence Capitalization.pdb
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence_Capitalization.sentenceCapitalization.resources
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence_Capitalization.Properties.Resources.resources
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.GenerateResource.cache
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.exe
+C:\Users\User\Documents\Comp\sentence_capitalization\Sentence Capitalization\obj\Debug\Sentence Capitalization.pdb
