@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coin Counter", "Coin Counter\Coin Counter.csproj", "{6342F2C0-6BCE-4898-BA67-8E9976A0F992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6342F2C0-6BCE-4898-BA67-8E9976A0F992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6342F2C0-6BCE-4898-BA67-8E9976A0F992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6342F2C0-6BCE-4898-BA67-8E9976A0F992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6342F2C0-6BCE-4898-BA67-8E9976A0F992}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A8F571-91F9-48C7-811A-5F2038E62A86}
+	EndGlobalSection
+EndGlobal

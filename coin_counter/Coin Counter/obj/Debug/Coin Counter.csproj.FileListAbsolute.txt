@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Coin Counter\Coin Counter\bin\Debug\Coin Counter.exe.config
+C:\Users\User\source\repos\Coin Counter\Coin Counter\bin\Debug\Coin Counter.exe
+C:\Users\User\source\repos\Coin Counter\Coin Counter\bin\Debug\Coin Counter.pdb
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin Counter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin_Counter.coinCounter.resources
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin_Counter.Properties.Resources.resources
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin Counter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin Counter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin Counter.exe
+C:\Users\User\source\repos\Coin Counter\Coin Counter\obj\Debug\Coin Counter.pdb
