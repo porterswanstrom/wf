@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe.config
+C:\Users\User\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.exe
+C:\Users\User\source\repos\Latin Translator\Latin Translator\bin\Debug\Latin Translator.pdb
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Form1.resources
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin_Translator.Properties.Resources.resources
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.exe
+C:\Users\User\source\repos\Latin Translator\Latin Translator\obj\Debug\Latin Translator.pdb
