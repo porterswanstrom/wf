@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+C:\Users\User\source\repos\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+C:\Users\User\source\repos\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software_Sales.softwareSales.resources
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software_Sales.Properties.Resources.resources
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software Sales.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+C:\Users\User\source\repos\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
