@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.exe.config
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.exe
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\bin\Debug\Sales Analysis.pdb
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales_Analysis.salesAnalysis.resources
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales_Analysis.Properties.Resources.resources
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.exe
+C:\Users\User\source\repos\Sales Analysis\Sales Analysis\obj\Debug\Sales Analysis.pdb
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\bin\Debug\Sales Analysis.exe.config
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\bin\Debug\Sales Analysis.exe
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\bin\Debug\Sales Analysis.pdb
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales_Analysis.salesAnalysis.resources
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales_Analysis.Properties.Resources.resources
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.GenerateResource.cache
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales Analysis.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales Analysis.exe
+C:\Users\User\Documents\Comp\sales_analysis\Sales Analysis\obj\Debug\Sales Analysis.pdb
