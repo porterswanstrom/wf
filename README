@@ -1,0 +1,13 @@
+This project contains a bunch of WinForms that I've made
+while in college. None of these are complex, but a few
+notable programs are:
+
+chess_monitor
+  This program lets a user move/take pieces on a chess board
+  and save/load the state of the chess board via a save file.
+  There are 3 boards the user can switch between in case
+  multiple games need monitored simultaneously
+
+txt_to_html
+  A very basic text to HTML converter that only supports
+  paragraphs, headers, and non-inline links
