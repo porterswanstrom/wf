@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Name Formatter\Name Formatter\bin\Debug\Name Formatter.exe.config
+C:\Users\User\source\repos\Name Formatter\Name Formatter\bin\Debug\Name Formatter.exe
+C:\Users\User\source\repos\Name Formatter\Name Formatter\bin\Debug\Name Formatter.pdb
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name Formatter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name_Formatter.nameFormatter.resources
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name_Formatter.Properties.Resources.resources
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name Formatter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name Formatter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name Formatter.exe
+C:\Users\User\source\repos\Name Formatter\Name Formatter\obj\Debug\Name Formatter.pdb
