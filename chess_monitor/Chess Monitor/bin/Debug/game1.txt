@@ -1,0 +1,64 @@
+W Rook
+W Pawn
+
+
+
+
+B Pawn
+B Rook
+W Knight
+W Pawn
+
+
+
+
+B Pawn
+B Knight
+W Bishop
+W Pawn
+
+W Pawn
+
+
+B Pawn
+B Bishop
+W King
+
+
+
+
+
+B Queen
+B  King
+W Queen
+
+
+W Pawn
+
+
+B Pawn
+
+
+W Pawn
+
+
+
+
+B Pawn
+B Bishop
+W Knight
+W Pawn
+
+
+
+
+B Pawn
+B Knight
+W Rook
+W Pawn
+
+
+
+
+B Pawn
+B Rook

@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\bin\Debug\Chess Monitor.exe.config
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\bin\Debug\Chess Monitor.exe
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\bin\Debug\Chess Monitor.pdb
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess_Monitor.chessMonitor.resources
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess_Monitor.Properties.Resources.resources
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.exe
+C:\Users\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.pdb
+d:\Work\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.csproj.AssemblyReference.cache
+d:\Work\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.exe
+d:\Work\User\source\repos\Chess Monitor\Chess Monitor\obj\Debug\Chess Monitor.pdb
