@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Pet Info\Pet Info\bin\Debug\Pet Info.exe.config
+C:\Users\User\source\repos\Pet Info\Pet Info\bin\Debug\Pet Info.exe
+C:\Users\User\source\repos\Pet Info\Pet Info\bin\Debug\Pet Info.pdb
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet Info.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet_Info.petInfo.resources
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet_Info.Properties.Resources.resources
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet Info.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet Info.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet Info.exe
+C:\Users\User\source\repos\Pet Info\Pet Info\obj\Debug\Pet Info.pdb
+C:\Users\User\Documents\Comp\pet_info\Pet Info\bin\Debug\Pet Info.exe.config
+C:\Users\User\Documents\Comp\pet_info\Pet Info\bin\Debug\Pet Info.exe
+C:\Users\User\Documents\Comp\pet_info\Pet Info\bin\Debug\Pet Info.pdb
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet Info.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet_Info.petInfo.resources
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet_Info.Properties.Resources.resources
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet Info.csproj.GenerateResource.cache
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet Info.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet Info.exe
+C:\Users\User\Documents\Comp\pet_info\Pet Info\obj\Debug\Pet Info.pdb
