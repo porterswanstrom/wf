@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe.config
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.exe
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\bin\Debug\Cookie Calories.pdb
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.cookieCalories.resources
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie_Calories.Properties.Resources.resources
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.exe
+C:\Users\User\source\repos\Cookie Calories\Cookie Calories\obj\Debug\Cookie Calories.pdb
